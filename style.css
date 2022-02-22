@@ -1,0 +1,13 @@
+#contanierText {
+    display: flex;
+    margin-top: 5%;
+}
+
+#carta-texto {
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+}
